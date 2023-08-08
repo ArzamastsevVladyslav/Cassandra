@@ -80,6 +80,22 @@
 			},
 			"capacity": 8,
 			"mode": "floating"
+		},
+		{
+			"schema": {
+				"mode": "double"
+			},
+			"capacity": 4,
+			"mode": "floating",
+			"meaning": "double"
+		},
+		{
+			"schema": {
+				"mode": "double"
+			},
+			"capacity": 8,
+			"mode": "floating",
+			"meaning": "double"
 		}
 	]
 }
