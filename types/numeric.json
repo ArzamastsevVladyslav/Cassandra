@@ -66,6 +66,20 @@
 				"mode": "integer"
 			},
 			"mode": "smallint"
+		},
+		{
+			"schema": {
+				"mode": "float"
+			},
+			"capacity": 4,
+			"mode": "floating"
+		},
+		{
+			"schema": {
+				"mode": "float"
+			},
+			"capacity": 8,
+			"mode": "floating"
 		}
 	]
 }
